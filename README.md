@@ -9,8 +9,8 @@ For this part, we used the API implemented in part 1 of this project and we impl
 
 ## Repository organization
 
-* Report chapters are in [doc folder](https://github.com/inf23dw2g04/m2_react/tree/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2).
-* Screenshots are in the [prints folder](https://github.com/inf23dw2g04/m2_react/tree/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/prints).
+* Report chapters are in [doc folder](docsm2).
+* Screenshots are in the [prints folder](prints).
 
 
 ## Gallery
@@ -44,11 +44,11 @@ For this part, we used the API implemented in part 1 of this project and we impl
 
 
 ### Project presentation
-* Chapter 1 :[Project presentation](https://github.com/inf23dw2g04/m2_react/blob/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2/Projectpresentation.md)
+* Chapter 1 :[Project presentation](docsm2/projectpresentation.md)
 ### Resources
-* Chapter 2 :[Resources](https://github.com/inf23dw2g04/m2_react/blob/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2/product.md)
+* Chapter 2 :[Resources](docsm2/resources.md)
 ### Product
-* Chapter 3 :[Product](https://github.com/inf23dw2g04/m2_react/blob/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2/resources.md)
+* Chapter 3 :[Product](docsm2/product.md)
 
 
 ## Grupo _04_
