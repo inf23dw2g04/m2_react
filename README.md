@@ -17,11 +17,11 @@ For this part, we used the API implemented in part 1 of this project and we impl
 
 | Page      | Image |
 | ----------- | ----------- |
-| Create Tasks      | ![Drag Racing](https://github.com/inf23dw2g04/m2_react/blob/5174d069ddf0c6bfc711e0f02245e6a70c70c3c7/prints/createtasks.png)       |
-| Task Categories  | ![Drag Racing](https://github.com/inf23dw2g04/m2_react/blob/5174d069ddf0c6bfc711e0f02245e6a70c70c3c7/prints/taskcategories.png)       |
-| Tasks | ![Drag Racing](https://github.com/inf23dw2g04/m2_react/blob/5174d069ddf0c6bfc711e0f02245e6a70c70c3c7/prints/tasks.png)       |
-| Tasks Status      | ![Drag Racing](https://github.com/inf23dw2g04/m2_react/blob/5174d069ddf0c6bfc711e0f02245e6a70c70c3c7/prints/taskstatus.png)       |
-| Users   | ![Drag Racing](https://github.com/inf23dw2g04/m2_react/blob/5174d069ddf0c6bfc711e0f02245e6a70c70c3c7/prints/users.png)       |
+| Create Tasks      | ![Drag Racing](prints/createtasks.png)       |
+| Task Categories  | ![Drag Racing](prints/taskcategories.png)       |
+| Tasks | ![Drag Racing](prints/tasks.pn)       |
+| Tasks Status      | ![Drag Racing](prints/taskstatus.png)       |
+| Users   | ![Drag Racing](prints/users.png)       |
 
 ## Technologies
 
