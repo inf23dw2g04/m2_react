@@ -5,12 +5,12 @@ Repository to host the project developed for Desenvolvimento Web II, a 2024 subj
 ## Short theme description
 
 The goal of this part of the roject is to develop a Web Client Application, in ReactJS, for access and querying resources made available by a Web REST API.
-For this part, we used the API implemented in part 1 of this project and is protected by an authentication and authorization layer.
+For this part, we used the API implemented in part 1 of this project and we implement a protection by an authentication and authorization layer.
 
 ## Repository organization
 
-* Report chapters are in [doc folder](https://github.com/inf23dw2g04/m1_auth/tree/87ad19417134d7fd110909cee4a6e6486e24fc00/docs).
-* Screenshots are in the [prints folder](https://github.com/inf23dw2g04/m1_auth/tree/ffe74d09e8303b5bc89a785097a6f44a4885cccd/prints).
+* Report chapters are in [doc folder](https://github.com/inf23dw2g04/m2_react/tree/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2).
+* Screenshots are in the [prints folder](https://github.com/inf23dw2g04/m2_react/tree/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/prints).
 
 
 ## Gallery
@@ -34,7 +34,6 @@ For this part, we used the API implemented in part 1 of this project and is prot
 ### Frameworks and Libraries
 
 * Docker: Used for containerizing the application and its dependencies.
-* NodeJS: Backend runtime for building the API.
 * Express.js: Framework used for building the RESTful API.
 * Passport.js: Middleware for authentication, specifically with GitHub OAuth 2.0 in this project.
 * Swagger: For API documentation and testing.
@@ -45,11 +44,11 @@ For this part, we used the API implemented in part 1 of this project and is prot
 
 
 ### Project presentation
-* Chapter 1: [Project presentation](https://github.com/inf23dw2g04/m1_auth/blob/8caba60bc80a5222618b35b9ab91aa2e1677f591/docs/Product.md)
+* Chapter 1: [Project presentation](https://github.com/inf23dw2g04/m2_react/blob/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2/Projectpresentation.md)
 ### Resources
-* Chapter 2: [Resources](https://github.com/inf23dw2g04/m1_auth/blob/8caba60bc80a5222618b35b9ab91aa2e1677f591/docs/Resources.md)
+* Chapter 2: [Resources](https://github.com/inf23dw2g04/m2_react/blob/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2/product.md)
 ### Product
-* Chapter 3: [Product](https://github.com/inf23dw2g04/m1_auth/blob/8caba60bc80a5222618b35b9ab91aa2e1677f591/docs/projectpresentation.md)
+* Chapter 3: [Product](https://github.com/inf23dw2g04/m2_react/blob/abcc2ba4fc03ede1a94fb59704c954fc58b7801e/docsm2/resources.md)
 
 
 ## Grupo _04_
