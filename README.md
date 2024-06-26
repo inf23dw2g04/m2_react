@@ -1,4 +1,4 @@
-# My work assignment Title
+# TaskMaster
 
 Repository to host the project developed for Desenvolvimento Web II, a 2024 subject at UMAIA. Developed by Group 4 : [@pedropires64](https://github.com/pedropires64), [@TiagoBaganha](https://github.com/TiagoBaganha) and [@Duarte35](https://github.com/Duarte35).
 
