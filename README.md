@@ -19,7 +19,7 @@ For this part, we used the API implemented in part 1 of this project and we impl
 | ----------- | ----------- |
 | Create Tasks      | ![Drag Racing](prints/createtasks.png)       |
 | Task Categories  | ![Drag Racing](prints/taskcategories.png)       |
-| Tasks | ![Drag Racing](prints/tasks.pn)       |
+| Tasks | ![Drag Racing](prints/tasks.png)       |
 | Tasks Status      | ![Drag Racing](prints/taskstatus.png)       |
 | Users   | ![Drag Racing](prints/users.png)       |
 
