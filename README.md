@@ -4,8 +4,8 @@ Repository to host the project developed for Desenvolvimento Web II, a 2024 subj
 
 ## Short theme description
 
-The goal of this part of the statement is to develop a Web Client Application, in ReactJS, for access andquerying resources made available by a Web REST API.
-For this part, we used the API implemented in part 1 of this statement and is protected by an authentication and authorization layer.
+The goal of this part of the roject is to develop a Web Client Application, in ReactJS, for access and querying resources made available by a Web REST API.
+For this part, we used the API implemented in part 1 of this project and is protected by an authentication and authorization layer.
 
 ## Repository organization
 
